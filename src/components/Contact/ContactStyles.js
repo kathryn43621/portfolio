@@ -100,6 +100,7 @@ export const TextArea = styled.textarea`
 `;
 
 export const ButtonWrapper = styled.div`
-  padding: 1rem;
+width: 100%;  
+padding: 1rem;
   margin: 0 auto;
 `;

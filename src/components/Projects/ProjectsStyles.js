@@ -30,6 +30,7 @@ export const GridContainer = styled.div`
   padding: 3rem 0;
   column-gap: 3rem;
   row-gap: 3rem;
+
   @media ${(props) => props.theme.breakpoints.sm} {
     display: flex;
     flex-direction: column;
@@ -103,13 +104,13 @@ export const CardInfo = styled.p`
   line-height: 24px;
   text-align: justify;
   @media ${(props) => props.theme.breakpoints.sm} {
-    padding: 0.3rem;
+    padding: 16px;
   }
 `;
 
 export const KeyFeatures = styled.ul`
   text-align: left;
-  padding: 0 2rem;
+  padding: 0 16px;
   margin: 2.5rem;
 `;
 
@@ -117,7 +118,7 @@ export const Feature = styled.li`
   list-style-type: disc;
   color: #e9c3f1;
   font-size: 1.8rem;
-  padding: 1rem;
+  padding: 1rem 0;
 `;
 
 export const UtilityList = styled.ul`

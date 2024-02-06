@@ -13,7 +13,7 @@ export const Container = styled.div`
   }
 
   @media ${(props) => props.theme.breakpoints.md} {
-    padding: 24px 24px 0;
+    padding: 24px 16px 0;
   }
 
   & > * {
