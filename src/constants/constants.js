@@ -61,25 +61,25 @@ export const projects = [
 ];
 
 export const TimeLineData = [
+  { year: 2023, text: "Freelanced as a full-stack software engineer" },
   {
-    year: 2015,
-    text: "Started my journey as healthcare and technology researcher",
-  },
-  {
-    year: 2016,
-    text: "Served as an occupational therapist specialising in assistive technology",
-  },
-  {
-    year: 2020,
-    text: "Enrolled in the Computer Science Master's Programme at UCL",
+    year: 2021,
+    text: "Contributed as a consultant for innovative healthcare technology projects within UCL and NHS",
   },
   {
     year: 2021,
     text: "Graduated from MSc Disability, Design, and Innovation at UCL. Honored with the Dean's Award upon graduation.",
   },
   {
-    year: 2021,
-    text: "Contributed as a consultant for innovative healthcare technology projects within UCL and NHS",
+    year: 2020,
+    text: "Studied Computer Science Master's Programme at UCL",
   },
-  { year: 2023, text: "Engaged as a freelance full-stack engineer" },
+  {
+    year: 2016,
+    text: "Served as an occupational therapist specialising in assistive technology",
+  },
+  {
+    year: 2015,
+    text: "Started my journey as healthcare and technology researcher",
+  },
 ];

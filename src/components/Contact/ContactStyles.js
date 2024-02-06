@@ -48,8 +48,9 @@ export const Img = styled.img`
   width: 90%;
   margin-left: 48px;
   animation: ${floatAnimation} 2s ease-in-out infinite;
-  @media ${(props) => props.theme.breakpoints.md} {
-    display: none;
+  @media ${(props) => props.theme.breakpoints.sm} {
+    display: flex;
+    margin: 24px auto;
   }
 `;
 

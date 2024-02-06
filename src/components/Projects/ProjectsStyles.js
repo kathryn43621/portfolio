@@ -98,13 +98,13 @@ export const Intro = styled.div`
 
 export const CardInfo = styled.p`
   width: 100%;
-  padding: 0 50px;
+  padding: 0 24px;
   color: #e4e6e7;
   font-size: 1.8rem;
   line-height: 24px;
   text-align: justify;
   @media ${(props) => props.theme.breakpoints.sm} {
-    padding: 16px;
+    padding: 16px 24px;
   }
 `;
 
@@ -112,6 +112,9 @@ export const KeyFeatures = styled.ul`
   text-align: left;
   padding: 0 16px;
   margin: 2.5rem;
+  @media ${(props) => props.theme.breakpoints.sm} {
+    padding: 0 16px;
+  }
 `;
 
 export const Feature = styled.li`
