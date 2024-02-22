@@ -68,7 +68,7 @@ export const TimeLineData = [
   },
   {
     year: 2021,
-    text: "Graduated from MSc Disability, Design, and Innovation at UCL. Honored with the Dean's Award upon graduation.",
+    text: "Graduated from MSc Disability, Design, and Innovation at UCL. Honored with Distinction and Dean's Award upon graduation",
   },
   {
     year: 2020,
