@@ -64,7 +64,7 @@ export const TimeLineData = [
   { year: 2023, text: "Freelanced as a full-stack software engineer" },
   {
     year: 2021,
-    text: "Contributed as a consultant for innovative healthcare technology projects within UCL and NHS",
+    text: "Contributed as a consultant for innovative digital healthcare technology projects collaborating with WHO, UCL and NHS",
   },
   {
     year: 2021,
