@@ -2,7 +2,7 @@ export const projects = [
   {
     title: "Notopia",
     description:
-      "Notopia is a cutting-edge, full-stack note-sharing application crafted using Next.js, Next API, NextAuth, React, and MongoDB",
+      "Notopia is a cutting-edge, full-stack note-sharing application crafted using Next.js, Next API, NextAuth, React, and MongoDB.",
     features: [
       "User-friendly interface where users can effortlessly create, edit, and delete notes, sharing them seamlessly with the entire user community.",
       "Create post tags to catogorise your notes",
@@ -32,7 +32,7 @@ export const projects = [
   {
     title: "Eye-Hear",
     description:
-      "Responsive modern website using React, Node.js. Intuitive and user-friendly platform across all devices",
+      "Responsive modern website using React, Node.js. Intuitive and user-friendly platform across all devices.",
     features: [
       "Modern web-design",
       "User-friendly interface",
