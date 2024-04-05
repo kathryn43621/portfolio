@@ -4,10 +4,10 @@ export const projects = [
     description:
       "Notopia is a cutting-edge, full-stack note-sharing application crafted using Next.js, Next API, NextAuth, React, and MongoDB.",
     features: [
-      "User-friendly interface where users can effortlessly create, edit, and delete notes, sharing them seamlessly with the entire user community.",
+      "User-friendly interface where users can effortlessly create, edit, and delete notes, sharing them with the entire user community",
       "Create post tags to catogorise your notes",
       "Post categorisation through tags",
-      "Advanced search functions for precise content, tags, or usernames exploration.",
+      "Advanced search functions for precise content, tags, or usernames exploration",
     ],
     image: "/images/notopia.png",
     tags: ["Next.js", "React", "Mongoose", "MongoDB"],
