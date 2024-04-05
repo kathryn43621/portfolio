@@ -1,33 +1,40 @@
-My Awesome Project
+### Portfolio: [Visit](https://portfolio-kathryn-yangs-projects.vercel.app/)
 
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+I welcome you to explore my Portfolio Site including links to my recent projects and ways to get in contact with me.
 
-Link to project: http://recruiters-love-seeing-live-demos.com/
+## How It's Made:
 
-alt tag
+Tech used: HTML, CSS, JavaScript, React, Next.js
 
-How It's Made:
+## Optimisations
 
-Tech used: HTML, CSS, JavaScript, Framework of choice
+When I improve this project, I would like to start by adding the following functionality:
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write something. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+- Light & Dark Mode: This feature aims to provide users with the flexibility to choose between different visual themes based on their preferences or environmental conditions, ensuring optimal readability and reducing eye strain.
 
-Optimizations
+- Color Contrast: To ensure sufficient color contrast between text and background elements to improve readability for users with low vision or color blindness.
 
-(optional)
+- Focus Indicators: To implement interactive elements, such as links and form controls, have visible focus indicators to indicate their active state when navigating with a keyboard.
 
-You don't have to include this section but interviewers love that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are GREAT to bring up in interviews and you can use this section as reference when studying for technical interviews!
+- User testing: To assess the accessibility features of the website by engaging users who rely on assistive technologies like screen readers. This process aims to gather valuable feedback from users, enabling iterative improvements based on their insights and enhancing the overall website experience.
 
-Lessons Learned:
+## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those whoa this is awesome or wow I actually did it! moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+- Performance Optimisation: I've learnt the importance of code splitting, lazy loading, and optimising images to reduce page load times.
 
-Examples:
+- Responsive Design: I've learnt the importance of using media queries, testing on different devices, and ensuring touch-friendly interactions to ensure the website looks and functions well across various devices and screen sizes. 
 
-Take a look at these couple examples that I have in my own portfolio:
+- Accessibility: I've learnt to implement proper semantic HTML, and provide descriptive alt text for images. The next step will be testing with users with assistive technologies. 
 
-Palettable: https://github.com/alecortega/palettable
+- State Management: I've learnt to utilise the right state management for managing data and UI components. 
 
-Twitter Battle: https://github.com/alecortega/twitter-battle
 
-Patch Panel: https://github.com/alecortega/patch-panel
+## More Project: 
+
+Visit my other projects
+
+[Notopis](https://notopia-kathryn-yangs-projects.vercel.app/)
+
+[Wedding RSVP](https://wedding-mockup-1.netlify.app/)
+
+[Eye-hear](https://eye-hear.netlify.app/)
