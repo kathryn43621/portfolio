@@ -1,6 +1,8 @@
 ### Portfolio: [Visit here](https://portfolio-kathryn-yangs-projects.vercel.app/)
 
-I welcome you to explore my Portfolio Site including links to my recent projects and ways to get in contact with me.
+I welcome you to explore my Portfolio Site, including links to my recent projects and ways to connect with me.
+
+![portfolio](https://github.com/kathryn43621/portfolio/blob/main/public/images/portfolio.png)
 
 ## How It's Made:
 
@@ -8,7 +10,7 @@ Tech used: HTML, CSS, JavaScript, React, Next.js
 
 ## Optimisations
 
-When I improve this project, I would like to start by adding the following functionality:
+When I improve this project, I would like to start by adding the following functionalities:
 
 - Light & Dark Mode: This feature aims to provide users with the flexibility to choose between different visual themes based on their preferences or environmental conditions, ensuring optimal readability and reducing eye strain.
 
