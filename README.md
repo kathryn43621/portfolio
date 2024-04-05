@@ -35,10 +35,10 @@ When I improve this project, I would like to start by adding the following funct
 Visit my other projects
 
 [Notopia](https://notopia-kathryn-yangs-projects.vercel.app/)
-<img src="public/images/notopia.png" alt="notopia" width="400">
+<img src="public/images/notopia.png" alt="notopia" width="200">
 
 [Wedding RSVP](https://wedding-mockup-1.netlify.app/)
-<img src="public/images/wedding.png" alt="wedding-RSVP" width="400">
+<img src="public/images/wedding.png" alt="wedding-RSVP" width="200">
 
 [Eye-hear](https://eye-hear.netlify.app/)
-<img src="public/images/eye-hear.png" alt="eye-hear" width="400">
+<img src="public/images/eye-hear.png" alt="eye-hear" width="200">
