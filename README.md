@@ -8,7 +8,7 @@ I welcome you to explore my Portfolio Site, including links to my recent project
 
 Tech used: HTML, CSS, JavaScript, React, Next.js
 
-## Optimisations
+## Optimisations:
 
 When I improve this project, I would like to start by adding the following functionalities:
 
@@ -30,43 +30,30 @@ When I improve this project, I would like to start by adding the following funct
 
 - State Management: I've learnt how to utilise the right state management for managing data and UI components.
 
-## More Project:
+## More Projects:
 
 Visit my other projects
 
-[Notopia](https://notopia-kathryn-yangs-projects.vercel.app/)
-
-<img src="public/images/notopia.png" alt="notopia" width="250">
-
-[Wedding RSVP](https://wedding-mockup-1.netlify.app/)
-
-<img src="public/images/wedding.png" alt="wedding-RSVP" width="250">
-
-[Eye-hear](https://eye-hear.netlify.app/)
-
-<img src="public/images/eye-hear.png" alt="eye-hear" width="250">
-
-<table bordercolor="#66b2b2">
+<table style="border-collapse: collapse; border-color: transparent;">
   <tr>
-    <td width="33.3%"  style="align:center;" valign="top">
-        <a target="_blank" href="https://notopia-kathryn-yangs-projects.vercel.app/">Notopia</a>
-        <br />
+    <td style="text-align: center;">Notopia</td>
+    <td style="align: center;">Wedding RSVP</td>
+    <td style="align: center;">Eye-hear</td>
+  </tr>
+  <tr>
+    <td width="33.3%"  style="align:center;" valign="top" border="white">
         <a target="_blank" href="https://notopia-kathryn-yangs-projects.vercel.app/">
-        <img src="public/images/notopia.png" width="100%"  alt="Notopia"/>
+          <img src="public/images/notopia.png" width="100%"  alt="Notopia"/>
         </a>
     </td>
     <td width="33.3%" valign="top">
-        <a target="_blank" href="https://wedding-mockup-1.netlify.app/">Wedding RSVP"</a>
-        <br />
         <a target="_blank" href="https://wedding-mockup-1.netlify.app/">
-        <img src="public/images/wedding.png" width="100%" alt="Wedding RSVP"/>
+          <img src="public/images/wedding.png" width="100%" alt="Wedding RSVP"/>
         </a>
     </td>
     <td width="33.3%" valign="top">
-        <a target="_blank" href="https://eye-hear.netlify.app/">Eye Hear</a>
-        <br />
         <a target="_blank" href="https://eye-hear.netlify.app/">
-        <img src="public/images/eye-hear.png" width="100%" alt="eye hear"/>
+          <img src="public/images/eye-hear.png" width="100%" alt="eye hear"/>
         </a>
     </td>
   </tr>
