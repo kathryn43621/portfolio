@@ -11,7 +11,7 @@ export const projects = [
     ],
     image: "/images/notopia.png",
     tags: ["Next.js", "React", "Mongoose", "MongoDB"],
-    source: "https://notopia-o4i04wk12-kathryn-yangs-projects.vercel.app/",
+    source: "https://notopia-kathryn-yangs-projects.vercel.app/",
     id: 0,
   },
   {
