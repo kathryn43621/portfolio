@@ -34,7 +34,7 @@ When I improve this project, I would like to start by adding the following funct
 
 Visit my other projects
 
-<table style="border-collapse: collapse; border-color: transparent;">
+<table style="border-collapse: collapse; border-color: transparent; background-color: transparent;">
   <tr>
     <td style="text-align: center;">Notopia</td>
     <td style="align: center;">Wedding RSVP</td>
