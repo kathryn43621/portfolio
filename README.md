@@ -1,36 +1,42 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+### Portfolio: [Visit here](https://portfolio-kathryn-yangs-projects.vercel.app/)
 
-## Getting Started
+I welcome you to explore my Portfolio Site, including links to my recent projects and ways to connect with me.
 
-First, run the development server:
+![portfolio](https://github.com/kathryn43621/portfolio/blob/main/public/images/portfolio.png)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## How It's Made:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Tech used: HTML, CSS, JavaScript, React, Next.js
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Optimisations
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+When I improve this project, I would like to start by adding the following functionalities:
 
-## Learn More
+- Light & Dark Mode: This feature aims to provide users with the flexibility to choose between different visual themes based on their preferences or environmental conditions, ensuring optimal readability and reducing eye strain.
 
-To learn more about Next.js, take a look at the following resources:
+- Color Contrast: To ensure sufficient colour contrast between text and background elements to improve readability for users with low vision or color blindness.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Focus Indicators: To implement interactive elements, such as links and form controls, have visible focus indicators to indicate their active state when navigating with a keyboard.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- User testing: To assess the accessibility features of the website by engaging users who rely on assistive technologies like screen readers. This process aims to gather valuable feedback from users, enabling iterative improvements based on their insights and enhancing the overall website experience.
 
-## Deploy on Vercel
+## Lessons Learned:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Performance Optimisation: I've learnt the importance of code splitting, lazy loading, and optimising images to reduce page load times.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Responsive Design: I've learnt the importance of using media queries, testing on different devices, and ensuring touch-friendly interactions to ensure the website looks and functions well across various devices and screen sizes. 
+
+- Accessibility: I've learnt to implement proper semantic HTML, and provide descriptive alt text for images. The next step will be testing with users with assistive technologies. 
+
+- State Management: I've learnt how to utilise the right state management for managing data and UI components. 
+
+
+## More Project: 
+
+Visit my other projects
+
+[Notopia](https://notopia-kathryn-yangs-projects.vercel.app/)
+
+[Wedding RSVP](https://wedding-mockup-1.netlify.app/)
+
+[Eye-hear](https://eye-hear.netlify.app/)
