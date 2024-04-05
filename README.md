@@ -1,4 +1,4 @@
-### Portfolio: [Visit here](https://portfolio-kathryn-yangs-projects.vercel.app/)
+## Portfolio: [Visit here](https://portfolio-kathryn-yangs-projects.vercel.app/)
 
 I welcome you to explore my Portfolio Site, including links to my recent projects and ways to connect with me.
 
@@ -24,19 +24,21 @@ When I improve this project, I would like to start by adding the following funct
 
 - Performance Optimisation: I've learnt the importance of code splitting, lazy loading, and optimising images to reduce page load times.
 
-- Responsive Design: I've learnt the importance of using media queries, testing on different devices, and ensuring touch-friendly interactions to ensure the website looks and functions well across various devices and screen sizes. 
+- Responsive Design: I've learnt the importance of using media queries, testing on different devices, and ensuring touch-friendly interactions to ensure the website looks and functions well across various devices and screen sizes.
 
-- Accessibility: I've learnt to implement proper semantic HTML, and provide descriptive alt text for images. The next step will be testing with users with assistive technologies. 
+- Accessibility: I've learnt to implement proper semantic HTML, and provide descriptive alt text for images. The next step will be testing with users with assistive technologies.
 
-- State Management: I've learnt how to utilise the right state management for managing data and UI components. 
+- State Management: I've learnt how to utilise the right state management for managing data and UI components.
 
-
-## More Project: 
+## More Project:
 
 Visit my other projects
 
 [Notopia](https://notopia-kathryn-yangs-projects.vercel.app/)
+<img src="public/images/notopia.png" alt="notopia" width="200">
 
 [Wedding RSVP](https://wedding-mockup-1.netlify.app/)
+<img src="(public/images/wedding.png" alt="wedding-RSVP" width="200">
 
 [Eye-hear](https://eye-hear.netlify.app/)
+<img src="public/images/eye-hear.png" alt="eye-hear" width="200">
