@@ -14,7 +14,7 @@ When I improve this project, I would like to start by adding the following funct
 
 - Light & Dark Mode: This feature aims to provide users with the flexibility to choose between different visual themes based on their preferences or environmental conditions, ensuring optimal readability and reducing eye strain.
 
-- Color Contrast: To ensure sufficient colour contrast between text and background elements to improve readability for users with low vision or color blindness.
+- Colour Contrast: To ensure sufficient colour contrast between text and background elements to improve readability for users with low vision or colour blindness.
 
 - Focus Indicators: To implement interactive elements, such as links and form controls, have visible focus indicators to indicate their active state when navigating with a keyboard.
 
