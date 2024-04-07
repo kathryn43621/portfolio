@@ -6,7 +6,7 @@ I welcome you to explore my Portfolio Site, including links to my recent project
 
 ## How It's Made:
 
-Tech used: HTML, CSS, JavaScript, React, Next.js
+Tech used: Next.js, React, JavaScript, HTML, CSS
 
 ## Optimisations:
 
