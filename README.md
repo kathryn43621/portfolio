@@ -34,27 +34,6 @@ When I improve this project, I would like to start by adding the following funct
 
 Visit my other projects
 
-<table style="border-collapse: collapse; border-color: transparent; background-color: transparent;">
-  <tr>
-    <td style="text-align: center;">Notopia</td>
-    <td style="align: center;">Wedding RSVP</td>
-    <td style="align: center;">Eye-hear</td>
-  </tr>
-  <tr>
-    <td width="33.3%"  style="align:center;" valign="top" border="white">
-        <a target="_blank" href="https://notopia-kathryn-yangs-projects.vercel.app/">
-          <img src="public/images/notopia.png" width="100%"  alt="Notopia"/>
-        </a>
-    </td>
-    <td width="33.3%" valign="top">
-        <a target="_blank" href="https://wedding-mockup-1.netlify.app/">
-          <img src="public/images/wedding.png" width="100%" alt="Wedding RSVP"/>
-        </a>
-    </td>
-    <td width="33.3%" valign="top">
-        <a target="_blank" href="https://eye-hear.netlify.app/">
-          <img src="public/images/eye-hear.png" width="100%" alt="eye hear"/>
-        </a>
-    </td>
-  </tr>
-</table>
+|Notopia|Wedding RSVP|Eye-hear|
+|:----:|:----:|:----:|
+|[<img src="public/images/notopia.png">](https://notopia-kathryn-yangs-projects.vercel.app/)|[<img src="public/images/wedding.png">](https://wedding-mockup-1.netlify.app/)|[<img src="public/images/eye-hear.png">](https://eye-hear.netlify.app/)
