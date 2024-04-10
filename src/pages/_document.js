@@ -31,8 +31,13 @@ export default class MyDocument extends Document {
     return (
       <Html lang='en-GB'>
         <Head>
+          <title>Yu-Wei Yang Portfolio</title>
+          <meta name="description" content="Welcome to my portfolio. I'm a full stack software engineer with a passion for improving lives through technology, healthcare, and accessibility." />
           <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet"/>
           <link rel="icon" href="/images/logoIcon.svg" />
+          <link rel="canonical" href="https://portfolio-kathryn-yangs-projects.vercel.app/" />
+
+
         </Head>
         <body>
           <Main />
