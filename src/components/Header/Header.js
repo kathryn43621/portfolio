@@ -16,7 +16,7 @@ const Header = () => {
     <Container>
       <LogoWrapper>
         <Link href="/">
-          <Img src="/images/logo.svg" />
+          <Img src="/images/logo.svg" alt="logo" />
         </Link>
       </LogoWrapper>
       <NavMenu isOpen={isMenuOpen} toggleMenu={toggleMenu} />
