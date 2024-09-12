@@ -31,7 +31,7 @@ const Projects = () => (
         return (
           <BlogCard key={i}>
             <ImageContainer>
-              <Img src={p.image} />
+              <Img src={p.image} alt="project preview"/>
             </ImageContainer>
 
             <TitleContent>
