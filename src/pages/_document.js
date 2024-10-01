@@ -51,10 +51,7 @@ export default class MyDocument extends Document {
             property="og:description"
             content="Full stack software engineer with a passion for improving lives through technology, healthcare, and accessibility."
           />
-          <meta
-            property="og:image"
-            content="https://portfolio-kathryn-yangs-projects.vercel.app/public/images/portfolio.png"
-          />
+          <meta property="og:image" content="/images/portfolio.png" />
           <meta
             property="og:url"
             content="https://portfolio-kathryn-yangs-projects.vercel.app/"
