@@ -37,7 +37,6 @@ export default class MyDocument extends Document {
             content="Yu Wei Yang | Full Stack Software Engineer Portfolio | Passion for improving lives through technology, healthcare, and accessibility."
           />
           <meta name="robots" content="all" />
-          <meta name="robots" content="index, follow" />
           <meta
             name="viewport"
             content="width=device-width, initial-scale=1.0"
@@ -51,7 +50,7 @@ export default class MyDocument extends Document {
             property="og:description"
             content="Full stack software engineer with a passion for improving lives through technology, healthcare, and accessibility."
           />
-          <meta property="og:image" content="/images/portfolio.png" />
+          <meta property="og:image" content="/images/portfolio-share.png" />
           <meta
             property="og:url"
             content="https://portfolio-kathryn-yangs-projects.vercel.app/"
