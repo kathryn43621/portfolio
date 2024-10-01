@@ -124,7 +124,7 @@ export const Feature = styled.li`
   padding: 1rem 0;
 `;
 
-export const UtilityList = styled.ul`
+export const ExternalLinkContainer = styled.div`
   list-style-type: none;
   padding: 0;
   display: flex;
@@ -132,7 +132,7 @@ export const UtilityList = styled.ul`
   margin: 2.5rem 0;
 `;
 
-export const ExternalLinks = styled.a`
+export const ExternalLink = styled.a`
   width: 20%;
   color: white;
   font-size: 1.6rem;

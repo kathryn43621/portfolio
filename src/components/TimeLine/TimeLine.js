@@ -138,6 +138,8 @@ const Timeline = () => {
               active={activeItem}
               onClick={(e) => handleClick(e, index)}
               type="button"
+              aria-label={`Slide ${index + 1}`}
+              aria-current={activeItem === index ? "true" : undefined}
             >
               <CarouselButtonDot active={activeItem} />
             </CarouselButton>

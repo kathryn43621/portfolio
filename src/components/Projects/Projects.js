@@ -2,7 +2,7 @@ import React from "react";
 import {
   BlogCard,
   CardInfo,
-  ExternalLinks,
+  ExternalLink,
   GridContainer,
   HeaderThree,
   Hr,
@@ -10,7 +10,7 @@ import {
   Tag,
   TagList,
   TitleContent,
-  UtilityList,
+  ExternalLinkContainer,
   Img,
   KeyFeatures,
   Feature,
@@ -24,14 +24,14 @@ import { projects } from "../../constants/constants";
 
 const Projects = () => (
   <Section id="projects">
-    <SectionDivider divider/>
+    <SectionDivider divider />
     <SectionTitle>Projects</SectionTitle>
     <GridContainer>
       {projects.map((p, i) => {
         return (
           <BlogCard key={i}>
             <ImageContainer>
-              <Img src={p.image} alt="project preview"/>
+              <Img src={p.image} alt="project preview" />
             </ImageContainer>
 
             <TitleContent>
@@ -51,9 +51,16 @@ const Projects = () => (
                 })}
               </TagList>
             </div>
-            <UtilityList>
-              <ExternalLinks href={p.source} target="_blank" role="button">View</ExternalLinks>
-            </UtilityList>
+            <ExternalLinkContainer>
+              <ExternalLink
+                href={p.source}
+                target="_blank"
+                role="button"
+                rel="noopener noreferrer"
+              >
+                View
+              </ExternalLink>
+            </ExternalLinkContainer>
           </BlogCard>
         );
       })}
