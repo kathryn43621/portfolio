@@ -37,7 +37,6 @@ const Projects = () => (
                 layout="responsive"
                 width={800}
                 height={500}
-                loading="eager"
                 alt="project preview"
               />
             </ImageContainer>
