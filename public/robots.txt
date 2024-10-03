@@ -1,2 +1,9 @@
+# *
 User-agent: *
-Disallow:
+Allow: /
+
+# Host
+Host: https://portfolio-kathryn-yangs-projects.vercel.app/
+
+# Sitemaps
+Sitemap: https://portfolio-kathryn-yangs-projects.vercel.app/sitemap.xml
