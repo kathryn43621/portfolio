@@ -127,7 +127,6 @@ export const CarouselItemText = styled.p`
 `;
 export const CarouselButtons = styled.div`
   width: 288px;
-
   display: none;
   visibility: hidden;
 
@@ -141,7 +140,7 @@ export const CarouselButtons = styled.div`
 export const CarouselButton = styled.button`
   box-sizing: border-box;
   background: none;
-  padding: 4px;
+  padding: 8px;
   border: none;
   cursor: pointer;
   margin-right: 4px;

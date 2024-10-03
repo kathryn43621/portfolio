@@ -7,10 +7,19 @@ import Technologies from "../components/Technologies/Technologies";
 import Timeline from "../components/TimeLine/TimeLine";
 import { Layout } from "../layout/Layout";
 import { Section } from "../styles/GlobalComponents";
+import Head from "next/head";
 
 const Home = () => {
   return (
     <Layout>
+      <Head>
+        <title>Yu Wei Yang | Portfolio</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta
+          name="description"
+          content="Yu Wei Yang | Full Stack Software Engineer Portfolio | Passion for improving lives through technology, healthcare, and accessibility."
+        />
+      </Head>
       <Hero />
       <Projects />
       <Technologies />

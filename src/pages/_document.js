@@ -30,7 +30,35 @@ export default class MyDocument extends Document {
   render() {
     return (
       <Html lang="en">
-        <Head />
+        <Head>
+          <meta name="robots" content="all" />
+
+          <meta property="og:type" content="website" />
+
+          <meta
+            property="og:title"
+            content="Yu Wei Yang | Full Stack Software Engineer Portfolio"
+          />
+          <meta
+            property="og:description"
+            content="Full stack software engineer with a passion for improving lives through technology, healthcare, and accessibility."
+          />
+          <meta property="og:image" content="/images/portfolio-share.png" />
+          <meta
+            property="og:url"
+            content="https://portfolio-kathryn-yangs-projects.vercel.app/"
+          />
+
+          <link
+            href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap"
+            rel="stylesheet"
+          />
+          <link rel="icon" href="/images/logoIcon.svg" />
+          <link
+            rel="canonical"
+            href="https://portfolio-kathryn-yangs-projects.vercel.app/"
+          />
+        </Head>
         <body>
           <Main />
           <NextScript />
