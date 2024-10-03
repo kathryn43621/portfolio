@@ -1,9 +1,12 @@
 import styled, { keyframes } from "styled-components";
+import Image from "next/image";
 
 export const LeftSection = styled.div`
   width: 100%;
+  padding-right: 5rem;
   @media ${(props) => props.theme.breakpoints.sm} {
     width: 80%;
+    padding: 0;
     display: flex;
     flex-direction: column;
     margin: 0 auto;
@@ -17,17 +20,14 @@ export const LeftSection = styled.div`
 `;
 
 export const RightSection = styled.div`
-  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   width: 100%;
-  text-align: center;
   @media ${(props) => props.theme.breakpoints.sm} {
-    width: 80%;
-    margin: 0 auto;
   }
   @media ${(props) => props.theme.breakpoints.md} {
-    width: 100%;
     display: flex;
-    margin: 0 auto;
   }
 `;
 
@@ -44,14 +44,9 @@ const floatAnimation = keyframes`
   }
 `;
 
-export const Img = styled.img`
-  width: 90%;
-  margin-left: 48px;
+export const Img = styled(Image)`
+  width: 100%;
   animation: ${floatAnimation} 2s ease-in-out infinite;
-  @media ${(props) => props.theme.breakpoints.sm} {
-    display: flex;
-    margin: 24px auto;
-  }
 `;
 
 export const FormContainer = styled.form`
@@ -101,7 +96,7 @@ export const TextArea = styled.textarea`
 `;
 
 export const ButtonWrapper = styled.div`
-width: 100%;  
-padding: 1rem;
+  width: 100%;
+  padding: 1rem;
   margin: 0 auto;
 `;

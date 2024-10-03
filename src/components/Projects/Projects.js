@@ -21,6 +21,7 @@ import {
   SectionTitle,
 } from "../../styles/GlobalComponents";
 import { projects } from "../../constants/constants";
+import Image from "next/image";
 
 const Projects = () => (
   <Section id="projects">
@@ -31,7 +32,13 @@ const Projects = () => (
         return (
           <BlogCard key={i}>
             <ImageContainer>
-              <Img src={p.image} alt="project preview" />
+              <Image
+                src={p.image}
+                layout="responsive"
+                width={800}
+                height={500}
+                alt="project preview"
+              />
             </ImageContainer>
 
             <TitleContent>

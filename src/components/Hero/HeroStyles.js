@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 export const LeftSection = styled.div`
   width: 100%;
@@ -21,14 +21,18 @@ export const RightSection = styled.div`
   text-align: center;
 `;
 
-export const Img = styled.img`
-  width:80%;
-  margin-top: 20px;
+export const ImgWrapper = styled.div`
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  margin: 20px auto 0;
   transform: scaleX(-1);
   @media ${(props) => props.theme.breakpoints.md} {
     display: none;
   }
-`
+`;
 
 export const Background = styled.div`
   position: absolute;

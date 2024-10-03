@@ -2,7 +2,6 @@
 import React, { useState } from "react";
 import {
   Section,
-  SectionText,
   SectionTitle,
 } from "../../styles/GlobalComponents";
 import Button from "../../styles/GlobalComponents/Button";
@@ -17,6 +16,7 @@ import {
   ButtonWrapper,
 } from "./ContactStyles";
 import Success from "./Success";
+
 
 const Contact = (props) => {
   const [formData, setFormData] = useState({
@@ -47,7 +47,6 @@ const Contact = (props) => {
       if (response.ok) {
         setEmailSent(true);
         console.log("Email sent successfully!");
-        // Optionally, you can reset the form or show a success message
       } else {
         console.error("Error sending email");
       }
@@ -106,7 +105,10 @@ const Contact = (props) => {
       </LeftSection>
       <RightSection>
         <Img
-          src="/images/space.png"
+          src="/images/space.webp"
+          layout="responsive"
+          width={500}
+          height={500}
           alt="image of an earth surrounded by an astronaut, a cat in a spaceship, a keyboard and a cup of coffee."
         />
       </RightSection>
