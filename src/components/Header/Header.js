@@ -4,6 +4,7 @@ import React, { useState } from "react";
 import { Container, Img, LogoWrapper, SocialWrapper } from "./HeaderStyles";
 import NavMenu from "../NavMenu/NavMenu";
 import SocialIcons from "../SocialIcons/SocialIcons";
+import Image from "next/image";
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -16,7 +17,7 @@ const Header = () => {
     <Container>
       <LogoWrapper>
         <Link href="/">
-          <Img src="/images/logo.svg" alt="logo" />
+          <Image src="/images/logo.svg" width={100} height={100} alt="logo" />
         </Link>
       </LogoWrapper>
       <NavMenu isOpen={isMenuOpen} toggleMenu={toggleMenu} />

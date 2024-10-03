@@ -33,7 +33,7 @@ export const SocialWrapper = styled.div`
 `;
 
 // Logo Img
-export const Img = styled.img`
-  height: 100%;
-  object-fit: contain;
-`;
+// export const Img = styled.img`
+//   height: 100%;
+//   object-fit: contain;
+// `;
