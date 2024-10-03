@@ -13,12 +13,8 @@ const Home = () => {
   return (
     <Layout>
       <Head>
-        <title>Yu Wei Yang | Portfolio</title>
+        <title>Yu Wei Yang | Full Stack Software Engineer</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta
-          name="description"
-          content="Yu Wei Yang | Full Stack Software Engineer Portfolio | Passion for improving lives through technology, healthcare, and accessibility."
-        />
       </Head>
       <Hero />
       <Projects />
