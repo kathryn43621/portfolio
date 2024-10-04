@@ -134,19 +134,20 @@ export const CarouselButtons = styled.div`
     display: flex;
     visibility: visible;
     margin-bottom: 48px;
+    margin-top: 24px;
   }
 `;
 
 export const CarouselButton = styled.button`
   box-sizing: border-box;
   background: none;
-  padding: 8px;
+  padding: 12px;
   border: none;
   cursor: pointer;
   margin-right: 4px;
   opacity: ${(props) => (props.active === props.index ? `1` : `.33`)};
   transform: ${(props) =>
-    props.active === props.index ? `scale(1.6)` : `scale(1)`};
+    props.active === props.index ? `scale(1.6)` : `scale(2)`};
 
   &:focus {
     outline: none;
