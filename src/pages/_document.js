@@ -51,6 +51,11 @@ export default class MyDocument extends Document {
             content="https://portfolio-kathryn-yangs-projects.vercel.app/"
           />
 
+          <meta
+            name="google-site-verification"
+            content="hHOopUMoN-MIJfNR0tvOE3YZsHavdfcJ-y5BWH2_ZUg"
+          />
+
           <link
             href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap"
             rel="stylesheet"
