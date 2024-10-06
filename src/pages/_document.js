@@ -35,6 +35,10 @@ export default class MyDocument extends Document {
             name="keywords"
             content="Full Stack Software Engineer, React Developer, Node.js Developer, Next.js Developer, Web Development, Frontend Developer, Backend Developer, Freelance Software Engineer"
           />
+          <meta
+            name="description"
+            content="Full Stack Software Engineer specialising in creating impactful web applications. Passionate about technology, healthcare, and accessibility. Explore my portfolio to see my latest projects!"
+          />
           <meta name="robots" content="all" />
           <meta property="og:type" content="website" />
           <meta
