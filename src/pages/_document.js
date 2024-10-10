@@ -59,6 +59,28 @@ export default class MyDocument extends Document {
             name="google-site-verification"
             content="hHOopUMoN-MIJfNR0tvOE3YZsHavdfcJ-y5BWH2_ZUg"
           />
+          <meta
+            property="og:image:alt"
+            content="Preview of Yu Wei Yang's Portfolio projects, including web applications for healthcare and technology."
+          />
+          <meta property="og:site_name" content="Yu Wei Yang's Portfolio" />
+          <meta name="twitter:card" content="summary_large_image" />
+          <meta
+            name="twitter:title"
+            content="Yu Wei Yang - Full Stack Engineer | Web Applications"
+          />
+          <meta
+            name="twitter:description"
+            content="Creating impactful, accessible web applications. Explore my work in technology and healthcare!"
+          />
+          <meta
+            name="twitter:image"
+            content="https://portfolio-kathryn-yangs-projects.vercel.app/images/portfolio-share.png"
+          />
+          <meta
+            name="twitter:image:alt"
+            content="Portfolio preview of Yu Wei Yang's projects."
+          />
 
           <link
             href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap"
