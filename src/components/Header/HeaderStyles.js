@@ -31,9 +31,3 @@ export const SocialWrapper = styled.div`
     display: none;
   }
 `;
-
-// Logo Img
-// export const Img = styled.img`
-//   height: 100%;
-//   object-fit: contain;
-// `;

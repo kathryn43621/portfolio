@@ -89,7 +89,7 @@ export default class MyDocument extends Document {
             href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap"
             rel="stylesheet"
           />
-          <link rel="icon" href="/images/logoIcon.svg" />
+          <link rel="icon" href="/images/logoIcon.png" />
           <link
             rel="canonical"
             href="https://portfolio-kathryn-yangs-projects.vercel.app/"
