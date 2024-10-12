@@ -51,7 +51,7 @@ export default class MyDocument extends Document {
           />
           <meta
             property="og:image"
-            content="https://portfolio-kathryn-yangs-projects.vercel.app/portfolio-share.png"
+            content="https://portfolio-kathryn-yangs-projects.vercel.app/images/portfolio.png"
           />
           <meta
             property="og:url"
@@ -78,7 +78,7 @@ export default class MyDocument extends Document {
           />
           <meta
             name="twitter:image"
-            content="https://portfolio-kathryn-yangs-projects.vercel.app/images/portfolio-share.png"
+            content="https://portfolio-kathryn-yangs-projects.vercel.app/images/portfolio.png"
           />
           <meta
             name="twitter:image:alt"
