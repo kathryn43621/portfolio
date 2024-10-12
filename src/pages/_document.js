@@ -33,7 +33,7 @@ export default class MyDocument extends Document {
         <Head>
           <meta
             name="keywords"
-            content="Full Stack Software Engineer, React Developer, Node.js Developer, Next.js Developer, Web Development, Frontend Developer, Backend Developer, Freelance Software Engineer"
+            content="Yu Wei Yang, Yu Wei, Full Stack Software Engineer, React Developer, Node.js Developer, Next.js Developer, Web Development, Frontend Developer, Backend Developer, Freelance Software Engineer, occupational therapy, occupational therapist, ot"
           />
           <meta
             name="description"
@@ -49,7 +49,10 @@ export default class MyDocument extends Document {
             property="og:description"
             content="Full Stack Software Engineer specialising in creating impactful web applications. Passionate about technology, healthcare, and accessibility. Explore my portfolio to see my latest projects!"
           />
-          <meta property="og:image" content="/images/portfolio-share.png" />
+          <meta
+            property="og:image"
+            content="https://portfolio-kathryn-yangs-projects.vercel.app/portfolio-share.png"
+          />
           <meta
             property="og:url"
             content="https://portfolio-kathryn-yangs-projects.vercel.app/"
@@ -99,7 +102,6 @@ export default class MyDocument extends Document {
                 "@type": "Person",
                 name: "Yu Wei Yang",
                 url: "https://portfolio-kathryn-yangs-projects.vercel.app/",
-
                 sameAs: [
                   "https://www.linkedin.com/in/yu-wei-yang/",
                   "https://github.com/kathryn43621",
@@ -108,7 +110,7 @@ export default class MyDocument extends Document {
                 jobTitle: "Full Stack Software Engineer",
                 worksFor: {
                   "@type": "Organization",
-                  name: "Your Company",
+                  name: "Freelence",
                 },
                 description:
                   "Full Stack Software Engineer specialising in web development and design.",
@@ -121,7 +123,6 @@ export default class MyDocument extends Document {
                   "@type": "ContactPoint",
                   email: "kathryn43621@gmail.com",
                 },
-                // Add more properties as needed
               }),
             }}
           />
