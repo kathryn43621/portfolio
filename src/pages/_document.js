@@ -31,6 +31,7 @@ export default class MyDocument extends Document {
     return (
       <Html lang="en">
         <Head>
+          <title>Yu Wei Yang | Full Stack Software Engineer</title>
           <meta
             name="keywords"
             content="Yu Wei Yang, Yu Wei, Full Stack Software Engineer, React Developer, Node.js Developer, Next.js Developer, Web Development, Frontend Developer, Backend Developer, Freelance Software Engineer, occupational therapy, occupational therapist, ot"
